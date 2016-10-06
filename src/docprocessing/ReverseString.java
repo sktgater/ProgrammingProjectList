@@ -4,7 +4,6 @@
 // string with reversed string
 // Exit the program by pressing CTRL + D
 
-
 import java.util.Scanner;
 import java.util.NoSuchElementException;
 

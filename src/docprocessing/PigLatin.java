@@ -29,7 +29,6 @@ public class PigLatin{
 		}
 		catch (NoSuchElementException e){
 			System.out.printf("Closing Program\n");
-		}
-		
+		}	
 	}
 }
